@@ -1,0 +1,16 @@
+#first-paragraph {
+  background-color: #000000;
+  color: red;
+  text-align: center;
+  padding: 16px;
+  border: 6px solid green;
+  margin: 10px;
+}
+
+.big-font {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Comic Sans MS";
+  background-color: yellow;
+  display: inline;
+}
