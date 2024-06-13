@@ -1,0 +1,55 @@
+#hello-paragraph {
+  color: red;
+  background-color: yellow;
+}
+
+.cool-paragraph {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.card {
+  width: 250px;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.card-image {
+  width: 100%;
+  border-radius: 6px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+}
+
+.card-content {
+  padding: 12px;
+  font-family: sans-serif;
+}
+
+.card-content-title {
+  font-weight: bold;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-bottom: 4px;
+}
+
+.card-content-brand {
+  margin-bottom: 8px;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+}
+
+.card-content-price {
+  color: red;
+}
+
+.card-content-superscript {
+  vertical-align: super;
+  font-size: 10px;
+}
